@@ -1,0 +1,10 @@
+F:\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+F:\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+F:\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+F:\LoginPage\LoginPage\obj\Debug\LoginPage.csprojResolveAssemblyReference.cache
+F:\LoginPage\LoginPage\obj\Debug\LoginPage.Login.resources
+F:\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+F:\LoginPage\LoginPage\obj\Debug\LoginPage.Register.resources
+F:\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.Cache
+F:\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+F:\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
